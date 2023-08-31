@@ -22,7 +22,7 @@ python main.py
 #git clone https://github.com/moneesingh/traffic-light.git
 #cd traffic-light
 #pip install -r requirements.txt
-#python main.py -->
+#python main.py
 ```
 
 Note:
