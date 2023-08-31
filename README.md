@@ -15,13 +15,14 @@ Running traffic light simulator
 git clone https://github.com/moneesingh/traffic-light.git
 cd traffic-light
 python main.py
-<!-- python -m venv env1
-source env1/bin/activate
-cd env1
-git clone https://github.com/moneesingh/traffic-light.git
-cd traffic-light
-pip install -r requirements.txt
-python main.py -->
+
+#python -m venv env1
+#source env1/bin/activate
+#cd env1
+#git clone https://github.com/moneesingh/traffic-light.git
+#cd traffic-light
+#pip install -r requirements.txt
+#python main.py -->
 ```
 
 Note:
